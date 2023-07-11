@@ -1,0 +1,47 @@
+.addbook{
+    background-color: rgb(202, 159, 146) ;
+    height:900px;
+    color:white;
+}
+#input-field{
+border: 2px solid  rgb(233, 93, 51);
+}
+#addbook-btn{
+    width: 400px;
+    padding: 10px 20px;
+    outline: none;
+    font-weight: 400;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    color:white;
+    background: transparent;
+    border-radius: 30px;
+
+    background-color: rgb(247, 195, 179);
+}
+/* .update-btn{
+    width: 200px;
+    padding: 10px 20px;
+    outline: none;
+    font-weight: 400;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    color:white;
+    background: transparent;
+    border-radius: 30px;
+  
+    background-color:#00d037;
+} */
+/* .delete-btn{
+    width: 200px;
+    padding: 10px 20px;
+    outline: none;
+    font-weight: 400;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    color:white;
+    background: transparent;
+    border-radius: 30px;
+     background-color: red;
+
+} */

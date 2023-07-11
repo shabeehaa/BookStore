@@ -1,0 +1,17 @@
+.footer{
+    background-color: #26242b;
+    padding: 70px 0;
+
+}
+#footer-container{
+    max-width: 1170px;
+    background-color: red;
+    margin: auto;
+}
+ul{
+    list-style: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}

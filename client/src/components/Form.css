@@ -1,0 +1,48 @@
+.form-button{
+    padding-bottom: 10px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rgb(29, 28, 28);
+    background-color: #d3dad7;
+    height:40px;
+    width: 100%;
+}
+
+
+  .form-category{
+    background-color: #454545;
+    height:700px;
+    width:100%;
+    
+  }
+  .form-viewcateg{
+font-size: 32px;
+font-weight: 500;
+padding: 20px;
+margin: 30px;
+width: 250px;
+background-color:rgb(112, 110, 110)545;
+cursor: pointer;
+border: none;
+border-radius: 15px;
+box-shadow: 10px 10px 10px -1px rgba(10, 99,169, 0.16);
+color:#00d037;
+height: 80px;
+  }
+  .add-icon{
+    border:1px solid black;
+    width:40px;
+    background-color: #d3dad7;
+    border-radius: 5px;
+box-shadow: 10px 10px 10px -1px rgba(10, 99,169, 0.16);
+  }
+  .fa-regular{
+padding:10px 10px;
+font-size: 20px;
+  }
+  /* .form-control{
+    align-items: center;
+    justify-content: center;
+  } */

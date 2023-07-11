@@ -1,0 +1,38 @@
+.section{
+    background-color:#1778F2;
+    height:800px;
+}
+
+
+
+.login-head{
+  color:#607d8b;
+  font-weight: 600;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  border-bottom: 4px solid #1877F2;
+  display: inline-block;
+  letter-spacing: 1px;
+}
+.login-reg{
+font-size: 16px;
+margin-bottom: 5px;
+display: inline-block;
+color: #607d8b;
+font-weight: 300;
+letter-spacing: 1px;
+}
+.login-button{
+width: 200px;
+padding: 10px 20px;
+outline: none;
+font-weight: 400;
+border: 1px solid #607d8b;
+letter-spacing: 1px;
+color: #607d8b;
+background: transparent;
+border-radius: 30px;
+color: #fff;
+
+}

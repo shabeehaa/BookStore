@@ -1,0 +1,16 @@
+/* input{
+    font-size: 12px;
+} */
+.reg-btn{
+ width: 300px;
+padding: 10px 20px;
+outline: none;
+font-weight: 400;
+border: 1px solid #607d8b;
+letter-spacing: 1px;
+color: #607d8b;
+background: transparent;
+border-radius: 30px;
+color: #fff;
+background-color: #1877F2;
+}
